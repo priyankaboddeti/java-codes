@@ -1,0 +1,20 @@
+11-17-2021 00:06:25 INFO  c.example.demo.DemoSpringApplication (55) : Starting DemoSpringApplication using Java 16.0.2 on miracle-OptiPlex-3050 with PID 4605 (/home/miracle/Desktop/Itg4/Demo_spring/target/classes started by miracle in /home/miracle/Desktop/Itg4/Demo_spring)
+11-17-2021 00:06:25 DEBUG c.example.demo.DemoSpringApplication (56) : Running with Spring Boot v2.5.6, Spring v5.3.12
+11-17-2021 00:06:25 INFO  c.example.demo.DemoSpringApplication (659) : No active profile set, falling back to default profiles: default
+11-17-2021 00:06:26 INFO  c.example.demo.DemoSpringApplication (61) : Started DemoSpringApplication in 1.372 seconds (JVM running for 1.919)
+11-17-2021 00:06:41 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:06:41 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:06:42 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:06:42 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:08:46 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:09:09 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:09:19 INFO  com.example.demo.ex.FirstController (26) : this is welcome message
+11-17-2021 00:10:00 INFO  c.example.demo.DemoSpringApplication (55) : Starting DemoSpringApplication using Java 16.0.2 on miracle-OptiPlex-3050 with PID 4810 (/home/miracle/Desktop/Itg4/Demo_spring/target/classes started by miracle in /home/miracle/Desktop/Itg4/Demo_spring)
+11-17-2021 00:10:00 DEBUG c.example.demo.DemoSpringApplication (56) : Running with Spring Boot v2.5.6, Spring v5.3.12
+11-17-2021 00:10:00 INFO  c.example.demo.DemoSpringApplication (659) : No active profile set, falling back to default profiles: default
+11-17-2021 00:10:02 INFO  c.example.demo.DemoSpringApplication (61) : Started DemoSpringApplication in 1.348 seconds (JVM running for 1.927)
+11-17-2021 00:11:22 INFO  c.example.demo.DemoSpringApplication (55) : Starting DemoSpringApplication using Java 16.0.2 on miracle-OptiPlex-3050 with PID 4930 (/home/miracle/Desktop/Itg4/Demo_spring/target/classes started by miracle in /home/miracle/Desktop/Itg4/Demo_spring)
+11-17-2021 00:11:22 DEBUG c.example.demo.DemoSpringApplication (56) : Running with Spring Boot v2.5.6, Spring v5.3.12
+11-17-2021 00:11:22 INFO  c.example.demo.DemoSpringApplication (659) : No active profile set, falling back to default profiles: default
+11-17-2021 00:11:24 INFO  c.example.demo.DemoSpringApplication (61) : Started DemoSpringApplication in 1.35 seconds (JVM running for 1.867)
+11-17-2021 00:12:48 INFO  com.example.demo.ex.FirstController (33) : this is welcome message
